@@ -7,7 +7,7 @@ Programm besteht aus 3 Module:
 
 Kommentar in Quellcode auf Englisch, Anzeige zur Bildshirm auf Deutsch.
 
-Erweiterungsmöglichkeit: Multi-benutzer, Multi-sprache, Version für Windowbenutzer
+Erweiterungsmöglichkeit: Multi-benutzer, Multi-sprache, Version für Windowbenutzer ...
 
 Dokuments:
 
@@ -16,3 +16,5 @@ Dokuments:
 - http://download.savannah.gnu.org/releases/xforms/xforms.pdf
 
 - http://ww.informatik.htw-dresden.de/~beck/PSPI/DownloadVorlesung/Folien/libforms.pdf
+
+link: www.nhatlinh.de
